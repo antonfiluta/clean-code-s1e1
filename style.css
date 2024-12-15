@@ -4,21 +4,21 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.heading {
+.head {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.heading img {
+.head img {
   width: 100%;
 }
-.heading .more {
+.head .more {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .heading {
+  .head {
     text-align: center;
   }
 }
@@ -57,7 +57,7 @@ button {
 button:hover {
   color: #3a3a3a;
 }
-/* Heading */
+/* head */
 h3,
 label[for="new-task"] {
   color: #333;
